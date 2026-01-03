@@ -87,7 +87,9 @@ gestao_tamias/
 ## 📄 Licença
 MIT License
 
-🚧 Status do Projeto
+---
+
+## 🚧 Status do Projeto
 Projeto em desenvolvimento contínuo, utilizado como base prática
 para evolução em back-end, organização de código e análise de dados.
 
