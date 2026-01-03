@@ -48,12 +48,19 @@ O projeto foi criado com o objetivo de **praticar desenvolvimento back-end, mode
 ## 🧬 Arquitetura do Projeto
 
 gestao_tamias/
+
 └── aplication/
+
 ├── db/ → Conexão e gerenciamento do banco de dados
+
 ├── dao/ → Interfaces e implementações DAO
+
 ├── services/ → Regras de negócio
+
 ├── model/ → Entidades do sistema
+
 ├── gui/ → Interface gráfica
+
 └── resources/ → Configurações (db.properties)
 
 
