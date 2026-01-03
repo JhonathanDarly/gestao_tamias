@@ -1,4 +1,4 @@
-# 📊 Gestão Tamias
+# 📊 Gestão Tamias – Sistema de Controle Financeiro em Java
 
 **Gestão Tamias** é um sistema de controle financeiro desenvolvido em Java com foco em pequenas e médias organizações, como igrejas, associações ou departamentos internos. O sistema permite o gerenciamento de movimentações financeiras, membros, categorias e geração de relatórios personalizados.
 
